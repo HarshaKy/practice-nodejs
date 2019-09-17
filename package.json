@@ -1,0 +1,29 @@
+{
+  "name": "practice-nodejs",
+  "version": "1.0.0",
+  "description": "adsf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshaKy/practice-nodejs.git"
+  },
+  "author": "harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshaKy/practice-nodejs/issues"
+  },
+  "homepage": "https://github.com/HarshaKy/practice-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "expect": "^24.9.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.1",
+    "nodemon": "^1.19.2",
+    "validator": "^11.1.0"
+  }
+}
